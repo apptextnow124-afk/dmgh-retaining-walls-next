@@ -5,8 +5,8 @@ import './globals.css'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: 'DMGH Retaining Walls - South-East Melbourne',
-  description: 'Trusted retaining wall specialists in Endeavour Hills, Rowville and surrounds.',
+  title: 'DMGH Retaining Walls',
+  description: 'Retaining wall specialists in South-East Melbourne',
 }
 
 export default function RootLayout({
